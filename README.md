@@ -28,4 +28,7 @@ freetype-py==2.2.0
 
 
 
-还有一个权重文件太大了，见网盘
+#### 还有一个权重文件太大了，见网盘
+
+链接：https://pan.baidu.com/s/1PGM44hj8eWFgHjTEdWAxqg 
+提取码：txxt
