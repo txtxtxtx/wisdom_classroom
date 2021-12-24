@@ -13,12 +13,19 @@ end 结尾
 #### 环境
 
 pyyaml==6.0
+
 opencv-python==4.5.4.58
+
 pyside2==5.15.2
+
 pyqt5==5.15.2
+
 pyqtchart==5.15.2
+
 tensorflow==2.6.2
+
 freetype-py==2.2.0
+
 
 
 还有一个权重文件太大了，见网盘
