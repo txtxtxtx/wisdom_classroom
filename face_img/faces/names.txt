@@ -1,7 +1,5 @@
 奥巴马 face01.jpeg
 特朗普 face02.png
-黄述波 face03.jpg
-田雄 tianxiong01.jpg
 
 end
 
