@@ -1,0 +1,6 @@
+baseconfig:
+  base_face_changed: 1
+  camera: 0
+  cur_class: 1
+  mark: 1
+face_name_txt_path: D:/githubcode/wisdom_classroom/face_img/class2/names.txt D:/githubcode/wisdom_classroom/face_img/faces/names.txt
